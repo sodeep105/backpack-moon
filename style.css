@@ -1,0 +1,21 @@
+.btn {
+    background-color: rgb(9, 9, 82);
+    color: white;
+    border-radius: 2em;
+}
+
+.penguin-card-footer {
+    background-color: white;
+    border: 0px;
+}
+
+.penguin {
+    background-color: white;
+
+}
+
+.penguin  {
+    width: 18em;
+    background-color: whitesmoke;
+    border-radius: 2em;
+}
